@@ -1,0 +1,30 @@
+.box-part {
+  margin-top: 50px;
+  text-align: center;
+  padding: 20px;
+  border: 1px white solid;
+}
+body {
+  background-color: rgb(165, 165, 165);
+}
+.sec-1 {
+  background-image: linear-gradient(to right, rgb(215, 62, 215),rgb(144, 144, 240),pink,orange,rgb(222, 55, 55) );
+}
+.sec-2 {
+  background-image: linear-gradient(to right,rgb(0, 200, 255),rgb(208, 208, 208));
+}
+.sec-3 {
+  background-image: linear-gradient(to right,rgba(0, 42, 255, 0.886),white);
+}
+.sec-4 {
+  background-image: linear-gradient(to right, rgb(32, 177, 32),white);
+}
+.sec-5 {
+  background-image: linear-gradient(to right, rgb(38, 160, 201),white);
+}
+.sec-6 {
+  background-image: linear-gradient(to right, rgba(255, 0, 0, 0.911),white);
+}
+a {
+  border-bottom: 1px rgb(0, 106, 255) solid;
+}
